@@ -152,7 +152,6 @@
 {
 
 .main{
-	background-image: none;
 	height: 450px;
 }
 .page{
@@ -181,10 +180,10 @@ h1{
 }
 .box1 {
     height: fit-content;
-    width: 70%;
+    width: 90%;
     background-color: black;
-    margin-top: 98px;
-    margin-left: -924px;
+    margin-top: 61px;
+    margin-left: -751px;
     padding: 25px;
     font-size: 20px;
     color: whitesmoke;
@@ -216,4 +215,8 @@ h1{
 .bt1{
 	margin-left: 120px;
 }
+.img4{
+	width:50%;
+	}
+	
 }
